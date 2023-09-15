@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carolina Costa, uma Dev em ascensão!
+### Olá! Seja bem vindo(a), eu sou a Carolina Costa
 
 - Cursando Sistemas para Internet ...
 - Estudando HTML, CSS e JavaScript
