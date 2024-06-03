@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a), sou a Carolina Costa
 
-- Cursando Sistemas para Internet ...
+- Cursando Análise e Desenvolvimento de Sistemas ...
 - Estudando HTML, CSS e JavaScript
 - Pronomes: ela/dela
 
