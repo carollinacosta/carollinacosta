@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo(a), sou a Carolina Costa
 
 - Cursando Análise e Desenvolvimento de Sistemas ...
-- Estudando HTML, CSS e JavaScript
+- Atualmente estudando Desenvolvimento Web, com foco em HTML, CSS, JavaScript e C#
 - Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
