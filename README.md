@@ -1,4 +1,4 @@
-### Bem vindo(a)! Eu sou a Carolina!
+description:  "Bem vindo(a)! Eu sou a Carolina!"
 
 - Sou uma entusiasta da tecnologia e apaixonada por desenvolvimento de software 
 - Aqui você encontrará alguns dos meus projetos. Fique à vontade para explorar, dar sugestões e colaborar!
