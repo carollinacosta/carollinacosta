@@ -1,8 +1,10 @@
-### Olá! Seja bem vindo(a), sou a Carolina Costa
+### Bem vindo(a)! Eu sou a Carolina!
 
-- Cursando Sistemas de Informação na PUC Minas
-- Atualmente estudando Desenvolvimento Web, com foco em HTML, CSS, JavaScript, C#, SQL Server
-- Pronomes: ela/dela
+- Cursando Sistemas de Informação 
+- Sou uma entusiasta da tecnologia e apaixonada por desenvolvimento de software
+- Aqui você encontrará alguns dos meus projetos.
+
+  Fique à vontade para explorar, dar sugestões e colaborar!
 
 
   
