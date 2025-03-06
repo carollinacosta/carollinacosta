@@ -1,6 +1,6 @@
 ### Bem vindo(a)! Eu sou a Carolina!
 
-- Cursando Sistemas de Informação 
+- Estudante de  Sistemas de Informação 
 - Sou uma entusiasta da tecnologia e apaixonada por desenvolvimento de software
 - Aqui você encontrará alguns dos meus projetos.
 
