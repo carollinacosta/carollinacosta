@@ -1,7 +1,7 @@
 ### Bem vindo(a)! Eu sou a Carolina!
 
 - Estudante de  Sistemas de Informação 
-- Sou uma entusiasta da tecnologia e apaixonada por desenvolvimento de software
+- Sou uma entusiasta da tecnologia e apaixonada por desenvolvimento de software 
 - Aqui você encontrará alguns dos meus projetos.
 
 - Fique à vontade para explorar, dar sugestões e colaborar!
