@@ -1,12 +1,12 @@
-# Olá, eu sou a Carolina! 👋
+# Olá, eu sou a Carolina! 
 
-### 👩‍💻 Sobre mim
+### 
 Atualmente estou cursando **Sistemas de Informação** e vivenciando meu primeiro **estágio na área de dados**. Sou uma profissional em transição de carreira, apaixonada por transformar dados brutos em insights que geram impacto real.
 
-- 🔭 Atualmente focada em: Engenharia de Dados e Cloud Computing.
-- 🌱 Aprendendo: Python, SQL Avançado e ferramentas de BI.
-- 🎯 Objetivo: Consolidar conhecimentos em Cloud (AWS) e pipelines de dados eficientes.
-- ⚡ Curiosidade: Acredito que pequenas mudanças no código e nos processos podem gerar grandes impactos nos resultados.
+- Atualmente focada em: Engenharia de Dados e Cloud Computing.
+- Aprendendo: Python, SQL Avançado e ferramentas de BI.
+- Objetivo: Consolidar conhecimentos em Cloud (AWS/GCP) e pipelines de dados eficientes.
+- Curiosidade: Acredito que pequenas mudanças no código e nos processos podem gerar grandes impactos nos resultados.
 
 ---
 
@@ -18,10 +18,7 @@ Atualmente estou cursando **Sistemas de Informação** e vivenciando meu primeir
 
 ---
 
-### 📊 Estatísticas e Projetos
-*(Aqui o GitHub mostrará seus repositórios automaticamente, mas você pode fixar os de dados)*
 
----
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinacosta-dev/)
